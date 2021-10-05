@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-tictactoe/static/css/main.85328783.chunk.css",
+    "main.js": "/react-tictactoe/static/js/main.8f86609a.chunk.js",
+    "runtime-main.js": "/react-tictactoe/static/js/runtime-main.a834ea0b.js",
+    "static/js/2.67fcd5c9.chunk.js": "/react-tictactoe/static/js/2.67fcd5c9.chunk.js",
+    "index.html": "/react-tictactoe/index.html",
+    "static/js/2.67fcd5c9.chunk.js.LICENSE.txt": "/react-tictactoe/static/js/2.67fcd5c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a834ea0b.js",
+    "static/js/2.67fcd5c9.chunk.js",
+    "static/css/main.85328783.chunk.css",
+    "static/js/main.8f86609a.chunk.js"
+  ]
+}
