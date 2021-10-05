@@ -92,7 +92,7 @@ const Game = ({ rows, children }) => {
 				) : (
 					<div>{winChain ? 'Winner: ' + currentSym : 'Next player: ' + (xIsNext ? 'X' : 'O')}</div>
 				)}
-				<ol>
+				<ol className='history-list'>
 					<History steps={stepNumber} history={history} jumpTo={jumpTo} isAscending={isAscending} />
 				</ol>
 			</div>
