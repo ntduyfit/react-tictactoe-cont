@@ -41,7 +41,9 @@ const Game = ({ rows, children }) => {
 	const handleClick = (i) => {
 		const current = history[stepNumber.current];
 		const squares = current.squares.slice();
-
+		if (squares[i]) {
+			return;
+		}
 		squares[i] = xIsNext ? 'X' : 'O';
 		const position = CalculatePosition(i, rows);
 

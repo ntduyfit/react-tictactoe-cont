@@ -43,6 +43,8 @@ ul {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    border: black solid 2px;
+    padding: 20px;
 }
 
 .game-info {
@@ -75,6 +77,8 @@ ul {
 }
 
 .history-list {
-    max-height: 370px;
-    overflow: scroll;
+    height: 370px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    width: 215px;
 }
