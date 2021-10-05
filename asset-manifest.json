@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-tictactoe-cont/static/css/main.d29aa836.chunk.css",
-    "main.js": "/react-tictactoe-cont/static/js/main.f94d5b66.chunk.js",
+    "main.css": "/react-tictactoe-cont/static/css/main.bd554b3c.chunk.css",
+    "main.js": "/react-tictactoe-cont/static/js/main.0e95eee5.chunk.js",
     "runtime-main.js": "/react-tictactoe-cont/static/js/runtime-main.61b67605.js",
     "static/js/2.67fcd5c9.chunk.js": "/react-tictactoe-cont/static/js/2.67fcd5c9.chunk.js",
     "index.html": "/react-tictactoe-cont/index.html",
@@ -10,7 +10,7 @@
   "entrypoints": [
     "static/js/runtime-main.61b67605.js",
     "static/js/2.67fcd5c9.chunk.js",
-    "static/css/main.d29aa836.chunk.css",
-    "static/js/main.f94d5b66.chunk.js"
+    "static/css/main.bd554b3c.chunk.css",
+    "static/js/main.0e95eee5.chunk.js"
   ]
 }
