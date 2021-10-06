@@ -4,7 +4,7 @@ import Game from './Game';
 
 import './App.css';
 
-const MAX_ROWS = 15;
+const MAX_ROWS = 20;
 const MIN_ROWS = 5;
 
 const App = () => {
@@ -45,7 +45,7 @@ const App = () => {
 						type='number'
 						onChange={handleChangeRow}
 						ref={inputRef}
-						placeholder='Type board size - min = 5 and max = 15'
+						placeholder={`Type board size - min = ${MIN_ROWS} and max = ${MAX_ROWS}`}
 					/>
 					<button onClick={submitHandler}>Play</button>
 				</div>
