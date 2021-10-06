@@ -8,7 +8,6 @@ const CalculateWinner = (squares, symbol, position, numOfRows) => {
 
 	const horizontalCheck = CheckWinner.CheckHorizontal(squares, symbol, position, numOfRows);
 	if (horizontalCheck) {
-		console.log(horizontalCheck);
 		return horizontalCheck;
 	}
 
